@@ -14,4 +14,5 @@ TEMPOF AGE – Categorizes people into age ranges and shows how long they’ve w
 DASHBOARD Seems to be a placeholder or visual summary (currently mostly empty, but might be used for graphs/charts).
 
 KPIS Lists key performance indicators (KPIs), like comparisons between gender and salary, or analysis of income vs. occupation.
+
 MY EXCEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1ivOA23gca0PawR-gHiE9dp66P2Zp0AMQ/edit?usp=sharing&ouid=103434843627213205645&rtpof=true&sd=true
